@@ -120,11 +120,7 @@ document.addEventListener('keyup', function(e) {
 
 // display modal popup upon win
 function winScreen() { 
-  setTimeout (function() {
-  modalText.innerText = "Your character successfully got to the water!";
-  playAgainButton.innerText = "Play Again?";
-  modal.style.display = "block";
-  }, 600);
+  modal.style.display = "block";  
 }
 
 // Get the modal and elements within
