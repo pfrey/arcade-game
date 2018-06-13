@@ -17,7 +17,6 @@ If your character collides with an enemy, the game will reset and your character
 
 ## Dependencies
 
-[Bootstrap Font Awesome CSS](https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css)
 [Google Font Coda](https://fonts.googleapis.com/css?family=Coda)
 
 
