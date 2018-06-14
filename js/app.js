@@ -1,8 +1,4 @@
 'use strict';
-//TODO:
-// add modal or some sort of instruction area
-// explaining how to play (arrows, collisions, etc)
-
 
 // Enemies our player must avoid
 var Enemy = function(x, y, speed) {
