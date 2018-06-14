@@ -19,7 +19,7 @@ If your character collides with an enemy, the game will reset and your character
 ## HowTo
 
 To play this game: 
- - Download/clone the repo, and open index.html in a browser. 
+ - Download/clone [this repository](https://github.com/pfrey/arcade-game), and open index.html in a browser. 
  - Or simply visit: [Arcade Game Project](https://pfrey.github.io/arcade-game/index.html)
 
 ## Dependencies
